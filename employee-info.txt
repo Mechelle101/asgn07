@@ -1,0 +1,6 @@
+Supervisor, 14.96
+Manager, 20.47
+Accountant, 25.53
+District Manager, 32.53
+Assistant District Manager, 18.35
+Human Resource Directer, 27.45

@@ -9,7 +9,7 @@
 <html>
 <head>
 	<title>OOP Exercise</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css"  />
+	<link href="../css/styles.css" rel="stylesheet">
 </head>
 
 <body>

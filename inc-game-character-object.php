@@ -1,8 +1,9 @@
 <?php
 class GameCharacter 
 {
-    private $playerName;
-		private $score;
+    // by using public will make the oop syntax work in the php file
+    public $playerName;
+	public $score;
 		
 		//get and set player name
 

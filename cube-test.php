@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<!--Author:
+<!--Author:	Mechelle (Not Mechelle) 
 	Date:
-	File:	  cube-test.php
+	File:	  	cube-test.php
 	Purpose:  Test the Cube class exercise
 -->
 
 <html>
 <head>
 	<title>Test Cube Class</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css">
+	<link href="../css/styles.css" rel="stylesheet">
 </head>
 <body>
 	<h1>TEST CUBE CLASS</h1>
 
 	<?php
-	include("inc-rectangle-object.php");
-	include("inc-cube-object.php");
+	include ("inc-rectangle-object.php");
+	include ("inc-cube-object.php");
 
 	$cube1 = new Cube();
 	$cube2 = new Cube();

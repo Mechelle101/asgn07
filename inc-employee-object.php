@@ -36,7 +36,7 @@ class Employee
 				$this->hourlyWage = $wage;
 				$notFound = false;
 			}
-			$empRecord = fgets($empFile);
+			$empRecord = trim(fgets($empFile));
 		}
 		fclose($empFile);
 
@@ -99,12 +99,12 @@ class Employee
 	
 	public function getWeeklyPay()
 	{
-		return number_format ($this->hourlyWage * 40, 2);
+		return number_format($this->hourlyWage * 40, 2);
 	}
 
 	public function getAnnualPay()
 	{
-		return number_format ($this->hourlyWage * 40 * 52, 2);
+		return number_format($this->hourlyWage * 40 * 52, 2);
 	}
 	
 } // end of class definition

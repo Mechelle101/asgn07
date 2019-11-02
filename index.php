@@ -36,6 +36,9 @@
       <ul>
         <li><a href="paint-estimate.html"> 1) Paint Estimate</a></li>
         <li><a href="software-order.html"> 2) Software Order</a></li>
+        <li><a href="game-character.html"> 3) Game Character</a></li>
+        <li><a href="cube-test.php"> 4) Cube Test</a></li>
+        <li><a href="new-employee.html"> 5) New Employee Form</a></li>
       </ul>
     </div>
     <footer>
